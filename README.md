@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola, mi nombre es Lautaro Muller 👋
+
+Desarrollador Front-End
+
+Soy estudiante de la tecnicatura en Programación en la Universidad Tencnológica Nacional. Además, estudio de forma autodidacta para convertirme en un profesional del mundo IT.
 
 <!--
 **lautaromuller/lautaromuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
