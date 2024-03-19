@@ -6,4 +6,6 @@ Soy estudiante de la tecnicatura en Programación en la Universidad Tencnológic
 
 ## Tecnologías:
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge)]()
+[![CSS](https://img.shields.io/badge/CSS-2194f0?style=for-the-badge)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)]()
