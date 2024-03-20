@@ -9,6 +9,7 @@ Soy estudiante de la Tecnicatura en Programación en la Universidad Tencnológic
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-50bbd7?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+
 [![Python](https://img.shields.io/badge/Python-f6d249?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
