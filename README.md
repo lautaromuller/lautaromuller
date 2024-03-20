@@ -13,6 +13,8 @@ Soy estudiante de la Tecnicatura en Programación en la Universidad Tencnológic
 [![Git](https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
+</br>
+
 ## Contacto:
 
 [![Email](https://img.shields.io/badge/lautaro8520%40gmail.com-101010?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lautaro8520@gmail.com)
