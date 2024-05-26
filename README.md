@@ -4,6 +4,7 @@
 
 
 Tecnicatura en Programación en la Universidad Tencnológica Nacional.
+</br>
 Estudio de forma autodidacta HTML, CSS, JavaScript, TypeScript y ReactJS con la intención de convertirme en un profesional del mundo IT.
 
 ## Tecnologías:
