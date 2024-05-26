@@ -1,10 +1,10 @@
-# Hola, mi nombre es Lautaro Muller 👋
+# Hola, soy Lautaro Muller 👋
 
 ### Desarrollador Front-End
 
 
-Estudiante de la Tecnicatura en Programación en la Universidad Tencnológica Nacional.
-Estudio de forma autodidacta distintas tecnologías como: HTML, CSS, JavaScript, TypeScript y ReactJS con la intención de convertirme en un profesional del mundo IT.
+Tecnicatura en Programación en la Universidad Tencnológica Nacional.
+Estudio de forma autodidacta HTML, CSS, JavaScript, TypeScript y ReactJS con la intención de convertirme en un profesional del mundo IT.
 
 ## Tecnologías:
 
