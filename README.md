@@ -2,7 +2,7 @@
 
 ### Desarrollador Front-End
 
-Arranque a estudiar programación a mediados de 2021 por recomendación de unos amigos. Empecé haciendo cursos por internet acompañado con varios proyectos personales, en 2023 me inscribí en la UTN para poder cursar la Tecnicatura en Programación.
+Estudio programación desde 2021. Empecé haciendo cursos por internet acompañado con varios proyectos personales, en 2023 me inscribí en la Universidad Tecnólogica Nacional para poder cursar la Tecnicatura en Programación y mejorar como progamador. Actualmente me encuentro cursando la carrera.
 
 ## Tecnologías:
 
