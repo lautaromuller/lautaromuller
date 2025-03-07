@@ -2,7 +2,7 @@
 
 ### Desarrollador Front-End
 
-Estudio programación desde 2021. Empecé haciendo cursos por internet acompañado con varios proyectos personales, en 2023 me inscribí en la Universidad Tecnólogica Nacional para poder cursar la Tecnicatura en Programación y mejorar como progamador. Actualmente me encuentro cursando la carrera.
+Estudio programación desde 2021. Empecé haciendo cursos por internet acompañado con varios proyectos personales, en 2023 me inscribí en la Universidad Tecnológica Nacional para poder cursar la Tecnicatura en Programación y mejorar como progamador. Actualmente me encuentro cursando la carrera.
 
 ## Tecnologías:
 
